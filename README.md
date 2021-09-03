@@ -16,10 +16,16 @@ node index.js
 ```
 
 # Commands
-> \`${prefix}setverify\`: Set verification channel, autodelete channel.
-> \`${prefix}setrole\`: Gives role when they use ${prefix}verify command in verification channel.
-> \`${prefix}setrrole\`: Removes role when they use ${prefix}verify command in verification channel.
-> \`${prefix}verify\`: It gives or remove role it works only in verification channel.
-> \`${prefix}rvrole\`: Reset **Give Role** 
-> \`${prefix}rvchannel\`: Reset **Verification Channel**
-> \`${prefix}rrvrole\`: Reset **Remove Role**
+> \`setverify\`: Set verification channel, autodelete channel. Aliases: `sv`
+ 
+> \`setrole\`: Gives role when they use ${prefix}verify command in verification channel. Aliases: `sr`
+ 
+> \setrrole\`: Removes role when they use ${prefix}verify command in verification channel. Aliases: `srr`
+ 
+> \`verify\`: It gives or remove role it works only in verification channel. Aliases: `accept`
+ 
+> \`rvrole\`: Reset **Give Role**  Aliases: `rvr`
+ 
+> \`rvchannel\`: Reset **Verification Channel** Aliases: `svc`
+ 
+> \`rrvrole\`: Reset **Remove Role** Aliases: `rrvr`
