@@ -9,6 +9,9 @@ Discord.js Verification bot which can auto delete message and gives or removes r
 npm i discord.js @12.5.3
 ```
 
+# Replit
+- [Run on replit](https://repl.it/github/diwasatreya/Verification-Bot)
+
 # Setup
 - Star and folk this code
 - Add prefix and developerID in `config.json`
