@@ -15,17 +15,17 @@ npm i discord.js @12.5.3
 node index.js
 ```
 
-# Commands
-> \`setverify\`: Set verification channel, autodelete channel. Aliases: `sv`
+# Commands and Aliases
+> `setverify`: Set verification channel, autodelete channel. Aliases: `sv`
  
-> \`setrole\`: Gives role when they use ${prefix}verify command in verification channel. Aliases: `sr`
+> `setrole`: Gives role when they use ${prefix}verify command in verification channel. Aliases: `sr`
  
-> \setrrole\`: Removes role when they use ${prefix}verify command in verification channel. Aliases: `srr`
+> `setrrole`: Removes role when they use ${prefix}verify command in verification channel. Aliases: `srr`
  
-> \`verify\`: It gives or remove role it works only in verification channel. Aliases: `accept`
+> `verify`: It gives or remove role it works only in verification channel. Aliases: `accept`
  
-> \`rvrole\`: Reset **Give Role**  Aliases: `rvr`
+> `rvrole`: Reset **Give Role**  Aliases: `rvr`
  
-> \`rvchannel\`: Reset **Verification Channel** Aliases: `svc`
+> `rvchannel`: Reset **Verification Channel** Aliases: `svc`
  
-> \`rrvrole\`: Reset **Remove Role** Aliases: `rrvr`
+> `rrvrole`: Reset **Remove Role** Aliases: `rrvr`
