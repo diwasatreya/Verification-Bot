@@ -4,7 +4,6 @@ const db = require("quick.db")
 module.exports = {
   name: "rrvrole",
   aliases: ["rrvr"],
-  category: ":frame_photo: WELCOME",
 
   run: (client, message, args) => {
    if (!message.member.hasPermission("ADMINISTRATION")) {
