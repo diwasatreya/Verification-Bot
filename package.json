@@ -1,0 +1,28 @@
+{
+  "name": "Verification-Bot",
+  "version": "1.0.0",
+  "description": "discord.gg/admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwasatreya/Verification-Bot.git"
+  },
+  "keywords": [],
+  "author": "Supreme#2401",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diwasatreya/Verification-Bot/issues"
+  },
+  "homepage": "https://github.com/diwasatreya/Verification-Bot#readme",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "image-cord": "^1.0.3",
+    "quick.db": "^7.1.3"
+  }
+}
