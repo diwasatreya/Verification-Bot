@@ -1,4 +1,7 @@
 # Verification-Bot
+
+![image](https://media.discordapp.net/attachments/839032308492533770/883254901436727326/Verivication_Bot.png?width=771&height=434)
+
 Discord.js Verification bot which can auto delete message and gives or removes role when they verified.
 
 # Discord V12
