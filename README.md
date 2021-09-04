@@ -4,6 +4,10 @@
 
 Discord.js Verification bot which can auto delete message and gives or removes role when they verified.
 
+[Watch Toturia](https://youtu.be/LXfvU6q4Cn4)
+
+[Join Server](https://discord.gg/gU7XAxTpX5)
+
 # Discord V12
 ```
 npm i discord.js @12.5.3
