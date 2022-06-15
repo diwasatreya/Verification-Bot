@@ -16,7 +16,7 @@ module.exports = {
     if(!channel) {
       return message.channel.send("You have to specify the channel")
     }
-   // This code is made by Supreme#2401
+   // This code is made by Atreya#2401
     db.set(`verify_${message.guild.id}`, channel.id)
     
     

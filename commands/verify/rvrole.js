@@ -15,7 +15,7 @@ module.exports = {
   
   
 
-// This code is made by Supreme#2401
+// This code is made by Atreya#2401
     
     message.channel.send(`Removed verification role`)
   }

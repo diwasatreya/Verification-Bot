@@ -11,7 +11,7 @@ const client = new Discord.Client({
 let cooldown = new Set();
 let cdseconds = 1; // cooldown time
 
-// This code is made by Supreme#2401
+// This code is made by Atreya#2401
 
 
 client.commands = new Discord.Collection();
@@ -86,7 +86,7 @@ require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |• Alive: 24/7                            |
  |-----------------------------------------|
- |• Author: Supreme#2401                   |
+ |• Author: Atreya#2401                   |
  |-----------------------------------------|
  |• Server: https://discord.gg/gU7XAxTpX5  |
  |-----------------------------------------|
