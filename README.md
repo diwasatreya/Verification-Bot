@@ -39,3 +39,6 @@ node index.js
 > `rvchannel`: Reset **Verification Channel** Aliases: `svc`
  
 > `rrvrole`: Reset **Remove Role** Aliases: `rrvr`
+
+# Contact 
+- Twitter: https://twitter.com/DiwasAtreya
